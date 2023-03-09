@@ -1,0 +1,52 @@
+.cartelera {
+    max-width: 40rem;
+    height: 100vh;
+
+
+    margin: auto;
+}
+.titulo {
+    font-size: 3rem;
+    color: rgb(48, 48, 48);
+
+
+    text-align: center;
+    padding: 3rem 0;
+}
+
+
+.caja {
+    width: 95%;
+    height: 12rem;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+
+
+    margin: auto;
+    margin-bottom: 2rem;
+
+
+    text-align: center;
+    padding: 1.5rem;
+}
+.caja1{
+    font-size: 1rem;
+    font-weight: 600;
+    background-color: rgb(192, 192, 255);
+}
+.caja2{
+    font-size: 1rem;
+    font-weight: 600;
+    background-color: rgb(255, 192, 239);
+}
+.caja3{
+    font-size: 1rem;
+    font-weight: 600;
+    background-color: rgb(250, 242, 172);
+}
+.caja4{
+    font-size: 1rem;
+    font-weight: 600;
+    background-color: rgb(187, 255, 177);
+}
